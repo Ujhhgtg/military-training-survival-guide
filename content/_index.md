@@ -1,19 +1,12 @@
 +++
-title = "Military Training Survival Guide"
+insert_anchor_links = "left"
+title = "东方绿舟军训生存指南"
 [extra]
 go_to_top = true
+toc = true
+toc_sidebar = true
 +++
 
-{% crt() %}
-
-```none
-      _          _          _          _          _
-    >(')____,  >(')____,  >(')____,  >(')____,  >(') ___,
-      (` =~~/    (` =~~/    (` =~~/    (` =~~/    (` =~~/
-jgs~^~^`---'~^~^~^`---'~^~^~^`---'~^~^~^`---'~^~^~^`---'~^~^~
-```
-
-{% end %}
 
 # 东方绿舟军训生存指南
 

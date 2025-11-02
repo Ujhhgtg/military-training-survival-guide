@@ -2,9 +2,30 @@ base_url = "https://ujhhgtg.github.io/military-training-survival-guide/"
 compile_sass = true
 build_search_index = false
 theme = "duckquill"
-title = "Military Training Survival Guide"
+title = "东方绿舟军训生存指南"
+author = "Fey Xie"
+generate_feeds = true
+feed_filenames = ["rss.xml", "atom.xml"]
 
 [markdown]
 highlight_code = true
 
 [extra]
+source_url = "https://github.com/Ujhhgtg/military-training-survival-guide/"
+issues_url = "https://github.com/Ujhhgtg/military-training-survival-guide/issues"
+show_copy_button = true
+bundled_fonts = true
+
+[extra.nav]
+show_feed = true
+show_theme_switcher = true
+show_repo = true
+links = [
+    { name = "Home", url = "/" },
+    { name = "Issues", url = "https://github.com/Ujhhgtg/military-training-survival-guide/issues" },
+]
+
+[extra.footer]
+show_copyright = true
+show_powered_by = true
+show_source = true
